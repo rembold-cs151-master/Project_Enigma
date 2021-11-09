@@ -7,7 +7,7 @@ not need to change this file unless you are implementing extensions.
 
 from pgl import GWindow
 from EnigmaMachine import EnigmaMachine
-from EnigmaConstants import *
+from EnigmaConstants import ENIGMA_WIDTH, ENIGMA_HEIGHT
 
 # Main program
 
