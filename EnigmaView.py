@@ -192,7 +192,7 @@ class EnigmaView:
         
 # Constants
 
-ALPHABET = "ABCDEFGHIJKLMNOPQRSTUVWZYZ"
+ALPHABET = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 N_ROTORS = 3
 
 CANVAS_WIDTH = 818              # Width of the tkinter canvas (pixels)
