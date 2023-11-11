@@ -1,4 +1,10 @@
-# File: EnigmaModel.py
+######################################################################
+# Name:
+# Where did you get help from:
+# Who did you help (if anyone):
+# Section leader's name:
+# List of extensions made (if any):
+######################################################################
 
 """ This is the starter file for the Enigma project. """
 
@@ -20,25 +26,26 @@ class EnigmaModel:
             view.update()
 
     def is_key_down(self, letter):
-        return False        # In the stub version, keys are never down
+        return False        # In the starter version, keys are all up
 
     def is_lamp_on(self, letter):
-        return False        # In the stub version, lamps are always off
+        return False        # In the starter version, lamps are all off
 
     def key_pressed(self, letter):
-        # You need to fill in this code
+        # You need to fill in this code, but leave the update call
         self.update()
 
     def key_released(self, letter):
-        # You need to fill in this code
+        # You need to fill in this code, but leave the update call
         self.update()
 
     def get_rotor_letter(self, index):
-        return "A"          # In the stub version, all rotors are set to "A"
+        return "A"          # In the starter version, all rotors are set to "A"
 
     def rotor_clicked(self, index):
-        # You need to fill in this code
+        # You need to fill in this code, but leave the update call
         self.update()
+
 
 def enigma():
     """Runs the Enigma simulator."""
