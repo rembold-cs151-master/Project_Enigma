@@ -1,7 +1,7 @@
 ######################################################################
 # Name:
-# Where did you get help from:
-# Who did you help (if anyone):
+# Who did you work with (if anyone):
+# GenAI transcript (if used):
 # Section leader's name:
 # List of extensions made (if any):
 ######################################################################
